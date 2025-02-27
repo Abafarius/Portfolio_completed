@@ -19,5 +19,5 @@
 ## 📌 Установка и запуск проекта
 1. **Клонируй репозиторий**  
    ```sh
-   git clone https://github.com/Abafarius/portfolio.git
+   git clone https://abafarius.github.io/Portfolio_completed/
    cd portfolio

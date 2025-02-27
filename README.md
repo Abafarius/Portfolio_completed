@@ -6,7 +6,6 @@
 - React
 - Redux
 - MUI
-- Chakra UI
 - Framer Motion (анимации)
 - React Router
 - EmailJS (для отправки сообщений)

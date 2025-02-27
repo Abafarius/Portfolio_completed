@@ -20,4 +20,6 @@
 1. **Клонируй репозиторий**  
    ```sh
    git clone https://abafarius.github.io/Portfolio_completed/
-   cd portfolio
+   cd portfolio_completed
+   npm install
+   npm run dev
